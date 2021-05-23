@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">0508</string>
+    <string name="Dom_mgt">宿舍管理</string>
+    <string name="res">住宿者</string>
+    <string name="mgr">管理員</string>
+    <string name="home">回到首頁</string>
+    <string name="Clear_Acc">清除帳密</string>
+    <string name="Package">包裹狀態</string>
+    <string name="Wa_machine">洗衣烘衣</string>
+    <string name="Notify">鎖屏提醒</string>
+    <string name="Choose_Time">選擇時間</string>
+    <string name="Trash_Car">垃圾車提醒</string>
+</resources>

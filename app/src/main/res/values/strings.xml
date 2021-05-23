@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">0508</string>
+    <string name="Dom_mgt">Dormitory Management</string>
+    <string name="res">Resident</string>
+    <string name="mgr">Manager</string>
+    <string name="home">HOME</string>
+    <string name="Clear_Acc">Clear Account</string>
+    <string name="Package">Package</string>
+    <string name="Wa_machine">Washer/Dryer</string>
+    <string name="Notify">Notification</string>
+    <string name="Choose_Time">Set Time</string>
+    <string name="Trash_Car">Garbage Truck Notification</string>
+</resources>
